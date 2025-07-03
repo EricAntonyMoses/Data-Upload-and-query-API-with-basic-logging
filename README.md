@@ -1,4 +1,4 @@
-# 📊 Data Upload and Query API
+#  Data Upload and Query API
 
 This project is a backend system built with **FastAPI** that allows users to:
 
@@ -10,7 +10,7 @@ This project is a backend system built with **FastAPI** that allows users to:
 
 ---
 
-## ✅ What This Project Does
+##  What This Project Does
 
 We created a simple backend application to demonstrate how structured data (in CSV format) can be processed, validated, stored, and retrieved via APIs.
 
@@ -24,7 +24,7 @@ We created a simple backend application to demonstrate how structured data (in C
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - **Python 3**
 - **FastAPI**
@@ -35,7 +35,7 @@ We created a simple backend application to demonstrate how structured data (in C
 
 ---
 
-## 🚀 How to Run It Locally
+##  How to Run It Locally
 
 1. Clone or extract the project
 2. Open a terminal and navigate to the project folder
