@@ -1,0 +1,7 @@
+fastapi             # Web framework for building APIs
+uvicorn             # ASGI server to run FastAPI apps
+sqlalchemy          # ORM for interacting with the SQLite database
+pandas              # Used for CSV parsing and validation
+python-multipart    # Required to handle file uploads in FastAPI
+pydantic            # For data validation using models (used with FastAPI)
+python-dotenv       # To load environment variables from .env files
